@@ -1,0 +1,43 @@
+
+
+.main {
+  width: 30%;
+  /* height: 130px; */
+  padding: 15px;
+  margin-bottom: 35px;
+  background-color:rgb(80, 128, 205);
+  font-size: 24px;
+  color:rgb(50, 9, 80);
+  border: 2px solid rgb(35, 88, 185);
+  border-radius: 5px;
+}
+
+
+
+
+.fat {
+  font-weight: 700;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.deleteDiv {
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+  margin-top: 10px;
+}
+
+
+.deleteBtn {
+  width: 150px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.deleteBtn:hover {
+  background-color:rgb(50, 9, 80);
+  font-size: 16px;
+  border:0;
+  color: azure;
+}
